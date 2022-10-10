@@ -10,4 +10,4 @@ Quote:
 --------
 This folder has two sub-folders:
 - Web scrapping: I scrapped this site to extract quotes from famous figures. This data consists of text (quote), tags ,and the number of likes. Note that the site has arranged quotes according to their popularity (likes)
-- insight: By virtue of the above data, I pull out some important aspects of the text (word cloud, number of repetitions, ..)
+- insight: By virtue of the above data, I pulled out some important aspects of the text (word cloud, number of repetitions, ..)
