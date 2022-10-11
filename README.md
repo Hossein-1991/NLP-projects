@@ -9,6 +9,7 @@ In this repository, you can see my nlp researche. Every folder contains a specif
 Quotes:
 --------
 Data source: https://www.goodreads.com/quotes/tag/science?page=1
+
 This folder has two sub-folders:
 - Web scrapping: I scrapped the mentioned to extract quotes from famous figures. This data consists of text (quote), tags ,and the number of likes. Note that the site has arranged quotes according to their popularity (likes)
 - insight: By virtue of the above data, I pulled out some important aspects of the text (word cloud, number of repetitions, ..)
@@ -16,3 +17,5 @@ This folder has two sub-folders:
 Luther King's speech:
 ----------------------
 Data source: https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety
+
+This folder has just one notebook. Firstly, I extracted the King's speech (namely, I have a dream) and then, perform some language-related processes.
