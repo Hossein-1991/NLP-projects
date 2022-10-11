@@ -11,7 +11,7 @@ Quotes:
 Data source: https://www.goodreads.com/quotes/tag/science?page=1
 
 This folder has two sub-folders:
-- Web scrapping: I scrapped the mentioned to extract quotes from famous figures. This data consists of text (quote), tags ,and the number of likes. Note that the site has arranged quotes according to their popularity (likes)
+- Web scrapping: I scrapped the mentioned site to extract quotes from famous figures. This data consists of text (quote), tags ,and the number of likes from pages 1 to 50. Note that the site has arranged quotes according to their popularity (likes)
 - insight: By virtue of the above data, I pulled out some important aspects of the text (word cloud, number of repetitions, ..)
 
 Luther King's speech:
