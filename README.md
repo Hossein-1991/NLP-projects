@@ -1,5 +1,5 @@
 # NLP-projects
-All projects which are related to NLP and web scrapping!
+All projects which are related to NLP and web scraping!
 
 General Description:
 -----------------------
