@@ -18,4 +18,4 @@ Luther King's speech:
 ----------------------
 Data source: https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety
 
-This folder has just one notebook. Firstly, I extracted the King's speech (namely, I have a dream) and then, perform some language-related processes.
+This folder has just one notebook. Firstly, I extracted the King's speech (called 'I have a dream') and then, perform some language-related processes.
