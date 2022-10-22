@@ -19,3 +19,11 @@ Luther King's speech:
 Data source: https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety
 
 This folder has just one notebook. Firstly, I extracted the King's speech (called 'I have a dream') and then, perform some language-related processes.
+
+
+Medical_text:
+--------------
+Data source: https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification
+
+As an introduction to data, I quote from its data source: "for Biomedical text document classification, abstract and full papers(whose length less than or equal to 6 pages) available and used. This dataset focused on long research paper whose page size more than 6 pages. Dataset includes cancer documents to be classified into 3 categories like 'ThyroidCancer','ColonCancer','Lung_Cancer' ". In this folder, I have performed a preprocessing to clean text data and then classificaton of them (with a high precission) using SVM and Naive Bayes.
+
